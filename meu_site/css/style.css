@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(58, 58, 58);
+}
+
+.texto1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: brown;
+}
+
+.texto2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: blue;
+}
+
+.texto3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    color: gray;
+}
+
+.texto4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 90px;
+    color: red;
+}
+
+.texto5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 110px;
+    color: green;
+}
+
+.texto6{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 130px;
+    color: orange;
+}

@@ -1,0 +1,98 @@
+.img1{
+    width: 350px;
+}
+
+.img2{
+    width: 350px;
+}
+
+.img3{
+    width: 350px;
+}
+
+.img4{
+    width: 350px;
+}
+
+.img5{
+    width: 350px;
+}
+
+.img6{
+    width: 350px;
+}
+
+.img7{
+    width: 350px;
+}
+
+.img8{
+    width: 350px;
+}
+
+.img9{
+    width: 350px;
+}
+
+.img10{
+    width: 350px;
+}
+
+/* Cor das páginas */
+
+.destino1{
+    background-color:green;
+    color: white;
+}
+
+.destino2{
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+
+.destino3{
+    background-color:rgb(0, 0, 0);
+    color: white;
+}
+
+.destino4{
+    background-color:green;
+    color: white;
+}
+
+.destino5{
+    background-color: orange;
+    color: rgb(0, 0, 0);
+}
+
+.destino6{
+    background-color:red;
+    color: white;
+}
+
+.destino7{
+    background-color:yellow;
+    color: black;
+}
+
+.destino8{
+    background-color: purple;
+    color: white;
+}
+
+.destino9{
+    background-color:orange;
+    color: rgb(0, 0, 0);
+}
+
+.destino10{
+    background-color:red;
+    color: white;
+}
+.frutas{
+    width: 500px;
+}
+a{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
